@@ -40,8 +40,8 @@
     "release"
   ],
   "dependencies": {
-    "request": "~2.33.0",
+    "request": "~2.75.0",
     "underscore": "~1.5.2",
-    "async": "~0.2.10"
+    "async": "~3.2.2"
   }
 }
